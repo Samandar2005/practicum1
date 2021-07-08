@@ -1,0 +1,474 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.meno {
+  width: 100%;
+  height: 80px;
+  background-color: white;
+}
+.meno .table {
+  width: 80%;
+  height: 50px;
+  background-color: white;
+  margin-top: -40px;
+  margin-left: 560px;
+}
+.meno .table .ot {
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  margin-left: -280px;
+}
+.meno .table li {
+  padding-left: 10px;
+  text-decoration: none;
+  list-style-type: none;
+  margin-top: -25px;
+}
+.meno .table li a {
+  color: black;
+  font-size: 14px;
+}
+.meno .table li a:hover {
+  color: red;
+}
+
+.menyo3 h6 {
+  margin-top: 150px;
+}
+.menyo3 ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+.menyo3 ul li a {
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 14px;
+  margin-left: -32px;
+  margin-top: -3px;
+}
+
+.menyo4 ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+.menyo4 ul li .oda {
+  color: black;
+  font-size: 15px;
+}
+.menyo4 ul li .loca {
+  font-size: 15px;
+}
+.menyo4 ul li a {
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 13px;
+  margin-left: -32px;
+}
+
+.menyo5 .images12 {
+  margin-left: -5px;
+}
+.menyo5 p {
+  width: 140px;
+  font-size: 12px;
+  color: #9d9d9d;
+}
+.menyo5 .icons1 button {
+  border: none;
+}
+
+.menyo6 .imade {
+  margin-top: -5px;
+}
+.menyo6 .imade .icons2 {
+  margin-left: -15px;
+  z-index: -1;
+  margin-top: -3px;
+}
+.menyo6 .imade .icons3 {
+  margin-left: -15px;
+  z-index: -1;
+  margin-top: -3px;
+}
+.menyo6 .imade .icons4 {
+  margin-top: 3px;
+}
+
+.col-md-7 {
+  margin-left: 290px;
+}
+.col-md-7 .table2 {
+  margin-left: -45px;
+}
+.col-md-7 .table2 ul .strelka {
+  color: black;
+  padding-left: 10px;
+  margin-top: 1px;
+}
+.col-md-7 .table2 ul li {
+  text-decoration: none;
+  list-style-type: none;
+}
+.col-md-7 .table2 ul li .dubay {
+  color: black;
+  text-decoration: none;
+  list-style-type: none;
+}
+.col-md-7 .table2 ul li a {
+  font-size: 13px;
+  padding-left: 10px;
+}
+.col-md-7 .table3 .h5classik {
+  margin-top: 20px;
+}
+.col-md-7 .table3 .cards {
+  width: 30%;
+  margin-left: -100px;
+}
+.col-md-7 .table3 .cards .cards4 {
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0 5px 30px 0 #91b2c9;
+}
+.col-md-7 .table3 .cards .cards4:hover {
+  box-shadow: 0 5px 30px 0 white;
+}
+.col-md-7 .table3 .cards .cardsnew .cards1 {
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0 5px 30px 0 #91b2c9;
+}
+.col-md-7 .table3 .cards .cardsnew .cards2 {
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0 5px 30px 0 #91b2c9;
+}
+.col-md-7 .table3 .cards .cardsnew .cards3 {
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0 5px 30px 0 #91b2c9;
+}
+.col-md-7 .table3 .cards .cardsnew .cards1:hover {
+  box-shadow: 0 5px 30px 0 white;
+}
+.col-md-7 .table3 .cards .cardsnew .cards2:hover {
+  box-shadow: 0 5px 30px 0 white;
+}
+.col-md-7 .table3 .cards .cardsnew .cards3:hover {
+  box-shadow: 0 5px 30px 0 white;
+}
+.col-md-7 .table3 .temur2 {
+  width: 100%;
+  height: 230px;
+  margin-top: 30px;
+  border: 1px solid #9aabb2;
+  border-radius: 5px;
+}
+.col-md-7 .table3 .temur2 .temur5 .time {
+  color: #9aabb2;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur2 .temur5 .ptemur {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur2 .temur5 .submit {
+  color: #9aabb2;
+  margin-left: 330px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur2 .temur5 .pilus {
+  color: #27a231;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur2 .temur5 .minus {
+  color: #a23234;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur2 .temur6 {
+  margin-left: 20px;
+}
+.col-md-7 .table3 .temur2 .terur7 {
+  width: 95%;
+  margin: auto;
+  height: 1px;
+  background-color: #9aabb2;
+}
+.col-md-7 .table3 .temur2 .temur8 {
+  color: #9aabb2;
+  margin-left: 40px;
+  margin-top: 10px;
+  font-size: 15px;
+}
+.col-md-7 .table3 .temur2 .temur8 .imgtutu {
+  width: 100px;
+  height: 50px;
+  margin-top: -13px;
+  z-index: -1;
+}
+.col-md-7 .table3 .temur2 .temur9 {
+  margin-left: 30px;
+  margin-top: 5px;
+}
+.col-md-7 .table3 .temur2 .temur10 {
+  margin-left: 30px;
+  margin-top: -10px;
+  font-size: 15px;
+}
+.col-md-7 .table3 .temur {
+  width: 100%;
+  height: 110px;
+  margin-top: 30px;
+  border: 1px solid #9aabb2;
+  border-radius: 5px;
+}
+.col-md-7 .table3 .temur .temur4 {
+  margin-left: 20px;
+}
+.col-md-7 .table3 .temur .pilus {
+  color: #27a231;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur .minus {
+  color: #a23234;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur .time {
+  color: #9aabb2;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur .ptemur {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 .temur .submit {
+  color: #9aabb2;
+  margin-left: 330px;
+  margin-top: 10px;
+}
+.col-md-7 .table3 h5 {
+  margin-left: 20px;
+}
+.col-md-7 .table3 .jonat {
+  width: 100%;
+  height: 650px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 5px 20px #5d64a2;
+}
+.col-md-7 .table3 .jonat h6 {
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat p {
+  margin-left: 15px;
+  color: #9aabb2;
+}
+.col-md-7 .table3 .jonat button {
+  background-color: white;
+  color: blue;
+  border: 1px solid blue;
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat .form-check {
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat .form-check input {
+  width: 20px;
+  height: 20px;
+  border: 1px solid blue;
+}
+.col-md-7 .table3 .jonat .diva {
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat .diva2 {
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat .diva2 input {
+  width: 30%;
+  height: 50px;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+.col-md-7 .table3 .jonat .diva4 {
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat .diva4 input {
+  width: 35%;
+  height: 55px;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+.col-md-7 .table3 .jonat .diva6 {
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat .diva6 textarea {
+  width: 60%;
+  height: 200px;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+.col-md-7 .table3 .jonat .diva3 {
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat .diva5 {
+  margin-left: 15px;
+}
+.col-md-7 .table3 .jonat:hover {
+  box-shadow: 0 5px 25px #3236a2;
+}
+.col-md-7 .table3 .tablediwes {
+  width: 100%;
+  height: 550px;
+}
+.col-md-7 .table3 .tablediwes table thead tr th {
+  padding-right: 60px;
+  margin-left: 20px;
+}
+.col-md-7 .table3 .tablediwes table tbody tr td {
+  padding-right: 30px;
+  padding-bottom: 18px;
+}
+.col-md-7 .table3 .table32 p {
+  font-size: 14px;
+}
+.col-md-7 .table3 .table33 {
+  height: 200px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 12px -7px #655716;
+  border: none;
+  background-color: white;
+}
+.col-md-7 .table3 .table33 .dera {
+  margin-left: 20px;
+}
+.col-md-7 .table3 .table33 .dera img {
+  margin-top: 15px;
+}
+.col-md-7 .table3 .table33 .dera h5 {
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.col-md-7 .table3 .table33 .p {
+  font-size: 12px;
+  color: #5f615d;
+  margin-left: 60px;
+  margin-top: -155px;
+}
+.col-md-7 .table3 .god ul li {
+  text-decoration: none;
+  list-style-type: none;
+  margin-left: 30px;
+  padding-right: 65px;
+}
+.col-md-7 .table3 .radius {
+  margin-left: 30px;
+}
+.col-md-7 .table3 .radius .rader {
+  padding-right: 5px;
+  margin-left: 30px;
+  margin-top: -30px;
+}
+.col-md-7 .table3 .radius .rader .div1 {
+  width: 130px;
+  height: 40px;
+  border: 1px solid rgba(0, 115, 255, 0.4);
+  border-radius: 5px;
+}
+.col-md-7 .table3 .radius .rader .div1 h6 {
+  margin-top: 7px;
+  margin-left: 5px;
+  color: #2d44ad;
+}
+.col-md-7 .table3 .radius .rader p {
+  font-size: 13px;
+}
+.col-md-7 .table3 .radius .rader .harorat {
+  font-size: 13px;
+  margin-top: -17px;
+}
+.col-md-7 .table3 .radius .rader .div1:hover {
+  border: 1px solid red;
+}
+.col-md-7 .table3 .radius .rader .div1:hover h6 {
+  color: red;
+}
+.col-md-7 .table3 .dubay2 {
+  margin-top: -15px;
+}
+.col-md-7 .table3 .ul ul {
+  padding-right: 50px;
+}
+.col-md-7 .table3 .ul ul li {
+  text-decoration: none;
+  list-style-type: none;
+}
+.col-md-7 .table3 .ul ul li a {
+  font-size: 14px;
+  margin-top: 10px;
+  margin-left: -33px;
+}
+.col-md-7 .dubaylet {
+  font-size: 14px;
+  color: #5f615d;
+  margin-top: 20px;
+}
+.col-md-7 .images1 img {
+  border-radius: 7px;
+}
+.col-md-7 .images1 p {
+  font-size: 12px;
+}
+.col-md-7 .images1 a {
+  font-size: 12px;
+}
+
+.wertual {
+  width: 20px;
+  margin-top: 150px;
+  font-size: 14px;
+}
+.wertual ul li {
+  text-decoration: none;
+  list-style-type: none;
+}
+.wertual ul li a {
+  margin-left: -30px;
+}
+
+.dera {
+  height: 200px;
+}
+.dera .denta {
+  height: 1px;
+  background-color: #6a6b6b;
+  margin-top: 80px;
+}
+.dera .wrap {
+  margin-top: 20px;
+}
+.dera .wrap p {
+  font-size: 13px;
+}
+.dera .wrap2 a {
+  display: block;
+  font-size: 13px;
+}
+.dera .wrap3 {
+  width: 60%;
+  font-size: 12px;
+  color: #9aabb2;
+  margin-left: 250px;
+  margin-top: -130px;
+}
+
+/*# sourceMappingURL=main.css.map */

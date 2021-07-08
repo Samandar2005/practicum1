@@ -1,0 +1,520 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.meno{
+  width: 100%;
+  height: 80px;
+  background-color: white;
+
+  .table{
+    width: 80%;
+    height: 50px;
+    background-color: white;
+    margin-top: -40px;
+    margin-left: 560px;
+    .ot{
+      text-decoration: none;
+      list-style-type: none;
+      color: black;
+      margin-left: -280px;
+    }
+    li{
+      padding-left: 10px;
+      text-decoration: none;
+      list-style-type: none;
+      margin-top: -25px;
+      a{
+        color: black;
+        font-size: 14px;
+      }
+      a:hover{
+        color: red;
+      }
+    }
+  }
+}
+.menyo3{
+  h6{
+    margin-top: 150px;
+  }
+  ul{
+    text-decoration: none;
+    list-style-type: none;
+    li{
+      a{
+        text-decoration: none;
+        list-style-type: none;
+        font-size: 14px;
+        margin-left: -32px;
+        margin-top: -3px;
+      }
+    }
+  }
+}
+.menyo4{
+  ul{
+    text-decoration: none;
+    list-style-type: none;
+    li{
+      .oda{
+        color: black;
+        font-size: 15px;
+      }
+      .loca{
+        font-size: 15px;
+      }
+      a{
+        text-decoration: none;
+        list-style-type: none;
+        font-size: 13px;
+        margin-left: -32px;
+      }
+    }
+  }
+}
+.menyo5{
+  .images12{
+    margin-left: -5px;
+  }
+  p{
+    width: 140px;
+    font-size: 12px;
+    color: rgba(157,157,157,1);
+  }
+  .icons1{
+    button{
+      border: none;
+    }
+  }
+}
+.menyo6{
+  .imade{
+    margin-top: -5px;
+    .icons2{
+      margin-left: -15px;
+      z-index: -1;
+      margin-top: -3px;
+    }
+    .icons3{
+      margin-left: -15px;
+      z-index: -1;
+      margin-top: -3px;
+    }
+    .icons4{
+      margin-top: 3px;
+    }
+  }
+}
+.col-md-7{
+  margin-left: 290px;
+  .table2{
+    margin-left: -45px;
+    ul{
+      .strelka{
+        color: black;
+        padding-left: 10px;
+        margin-top: 1px;
+      }
+      li{
+        text-decoration: none;
+        list-style-type: none;
+        .dubay{
+          color: black;
+          text-decoration: none;
+          list-style-type: none;
+
+        }
+        a{
+          font-size: 13px;
+          padding-left: 10px;
+        }
+      }
+    }
+  }
+  ;
+  .table3{
+    .h5classik{
+      margin-top: 20px;
+    }
+    .cards{
+      width: 30%;
+      margin-left: -100px;
+      .cards4{
+        margin-top: 20px;
+        margin-left: 20px;
+        box-shadow: 0 5px 30px 0 rgb(145, 178, 201, 1);
+      }
+      .cards4:hover{
+        box-shadow: 0 5px 30px 0 white;
+      }
+      .cardsnew{
+
+        .cards1{
+          margin-top: 20px;
+          margin-left: 20px;
+          box-shadow: 0 5px 30px 0 rgb(145, 178, 201, 1);
+        }
+        .cards2{
+          margin-top: 20px;
+          margin-left: 20px;
+          box-shadow: 0 5px 30px 0 rgb(145, 178, 201, 1);
+        }
+        .cards3{
+          margin-top: 20px;
+          margin-left: 20px;
+          box-shadow: 0 5px 30px 0 rgb(145, 178, 201, 1);
+        }
+        .cards1:hover{
+          box-shadow: 0 5px 30px 0 white;
+        }
+        .cards2:hover{
+          box-shadow: 0 5px 30px 0 white;
+        }
+        .cards3:hover{
+          box-shadow: 0 5px 30px 0 white;
+        }
+      }
+    }
+    .temur2{
+      width: 100%;
+      height: 230px;
+      margin-top: 30px;
+      border: 1px solid rgba(154,171,178,1);
+      border-radius: 5px;
+      .temur5{
+        .time{
+          color: rgba(154,171,178,1);
+          margin-left: 20px;
+          margin-top: 10px;
+        }
+        .ptemur{
+          margin-left: 20px;
+          margin-top: 10px;
+        }
+        .submit{
+          color: rgba(154,171,178,1);
+          margin-left: 330px;
+          margin-top: 10px;
+        }
+        .pilus{
+          color: rgba(39,162,49,1);
+          margin-left: 20px;
+          margin-top: 10px;
+        }
+        .minus{
+          color: rgba(162,50,52,1);
+          margin-left: 10px;
+          margin-top: 10px;
+        }
+      }
+      .temur6{
+        margin-left: 20px;
+      }
+      .terur7{
+        width: 95%;
+        margin: auto;
+        height: 1px;
+        background-color: rgba(154,171,178,1);
+      }
+      .temur8{
+        color: rgba(154,171,178,1);
+        margin-left: 40px;
+        margin-top: 10px;
+        font-size: 15px;
+        .imgtutu{
+          width: 100px;
+          height: 50px;
+          margin-top: -13px;
+          z-index: -1;
+        }
+      }
+      .temur9{
+        margin-left: 30px;
+        margin-top: 5px;
+      }
+      .temur10{
+        margin-left: 30px;
+        margin-top: -10px;
+        font-size: 15px;
+      }
+    }
+    .temur{
+      width: 100%;
+      height: 110px;
+      margin-top: 30px;
+      border: 1px solid rgba(154,171,178,1);
+      border-radius: 5px;
+      .temur4{
+        margin-left: 20px;
+      }
+      .pilus{
+        color: rgba(39,162,49,1);
+        margin-left: 20px;
+        margin-top: 10px;
+      }
+      .minus{
+        color: rgba(162,50,52,1);
+        margin-left: 10px;
+        margin-top: 10px;
+      }
+      .time{
+        color: rgba(154,171,178,1);
+        margin-left: 20px;
+        margin-top: 10px;
+      }
+      .ptemur{
+        margin-left: 20px;
+        margin-top: 10px;
+      }
+      .submit{
+        color: rgba(154,171,178,1);
+        margin-left: 330px;
+        margin-top: 10px;
+      }
+    }
+    h5{
+      margin-left: 20px;
+    }
+    .jonat{
+      width: 100%;
+      height: 650px;
+      background-color: white;
+      border-radius: 5px;
+      box-shadow: 0 5px 20px rgba(93,100,162,1);
+      h6{
+        margin-left: 15px;
+      }
+      p{
+        margin-left: 15px;
+        color: rgba(154,171,178,1);
+      }
+      button{
+        background-color: white;
+        color: blue;
+        border: 1px solid blue;
+        margin-left: 15px;
+
+      }
+      .form-check{
+        margin-left: 15px;
+        input{
+          width: 20px;
+          height: 20px;
+          border: 1px solid blue;
+        }
+      }
+      .diva{
+       margin-left: 15px;
+      }
+      .diva2{
+        margin-left: 15px;
+        input{
+          width: 30%;
+          height: 50px;
+          border: 1px solid blue;
+          border-radius: 5px;
+        }
+      }
+      .diva4{
+        margin-left: 15px;
+        input{
+          width: 35%;
+          height: 55px;
+          border: 1px solid blue;
+          border-radius: 5px;
+        }
+      }
+      .diva6{
+        margin-left: 15px;
+        textarea{
+          width: 60%;
+          height: 200px;
+          border: 1px solid blue;
+          border-radius: 5px;
+        }
+      }
+      .diva3{
+        margin-left: 15px;
+      }
+      .diva5{
+        margin-left: 15px;
+      }
+    }
+    .jonat:hover{
+      box-shadow: 0 5px 25px rgba(50,54,162,1);
+    }
+    .tablediwes{
+      width: 100%;
+      height: 550px;
+      table{
+        thead{
+          tr{
+            th{
+              padding-right: 60px;
+              margin-left: 20px;
+            }
+          }
+        }
+        tbody{
+          tr{
+            td{
+              padding-right: 30px;
+              padding-bottom: 18px;
+
+            }
+          }
+        }
+      }
+
+    }
+
+    .table32{
+      p{
+        font-size: 14px;
+      }
+    }
+    .table33{
+      height: 200px;
+      border-radius: 5px;
+      box-shadow: 1px 1px 12px -7px #655716;;
+      border: none;
+      background-color: white;
+      .dera{
+        margin-left: 20px;
+        img{
+          margin-top: 15px;
+        }
+        h5{
+          margin-top: 15px;
+          margin-left: 10px;
+        }
+      }
+      .p{
+        font-size: 12px;
+        color: rgba(95,97,93,1);
+        margin-left: 60px;
+        margin-top: -155px;
+      }
+    }
+    .god{
+      ul{
+        li{
+          text-decoration: none;
+          list-style-type: none;
+          margin-left: 30px;
+          padding-right: 65px;
+        }
+      }
+    }
+    .radius{
+      margin-left: 30px;
+      .rader{
+        padding-right: 5px;
+        margin-left: 30px;
+        margin-top: -30px;
+        .div1{
+          width: 130px;
+          height: 40px;
+          border: 1px solid rgba(0,115,255,.4);
+          border-radius: 5px;
+          h6{
+            margin-top: 7px;
+            margin-left: 5px;
+            color: rgba(45,68,173,1);
+          }
+        }
+        p{
+          font-size: 13px;
+        }
+        .harorat{
+          font-size: 13px;
+          margin-top: -17px;
+        }
+        .div1:hover{
+          border: 1px solid red;
+          h6{
+            color:red;
+          }
+        }
+
+      }
+    }
+    .dubay2{
+      margin-top: -15px;
+    }
+    .ul{
+      ul{
+        padding-right: 50px;
+        li{
+          text-decoration: none;
+          list-style-type: none;
+          a{
+            font-size: 14px;
+            margin-top: 10px;
+            margin-left: -33px;
+
+          }
+        }
+      }
+    }
+  }
+  .dubaylet{
+    font-size: 14px;
+    color: rgba(95,97,93,1);
+    margin-top: 20px;
+  }
+  .images1{
+    img{
+      border-radius: 7px;
+    }
+    p{
+      font-size: 12px;
+    }
+    a{
+      font-size: 12px;
+    }
+  }
+}
+.wertual{
+  width: 20px;
+  margin-top: 150px;
+  font-size: 14px;
+  ul{
+    li{
+      text-decoration: none;
+      list-style-type: none;
+      a{
+        margin-left: -30px;
+      }
+    }
+  }
+}
+.dera{
+  height: 200px;
+  .denta{
+    height: 1px;
+    background-color: rgba(106,107,107,1);
+    margin-top: 80px;
+  }
+  .wrap{
+    margin-top: 20px;
+    p{
+      font-size: 13px;
+    }
+  }
+  .wrap2{
+    a{
+      display: block;
+      font-size: 13px;
+    }
+  }
+  .wrap3{
+    width: 60%;
+    font-size: 12px;
+    color: rgba(154,171,178,1);
+    margin-left: 250px;
+    margin-top: -130px;
+  }
+}
